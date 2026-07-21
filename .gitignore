@@ -32,3 +32,9 @@ GISTDA GeoAI & Vibe Coding - Material-20260713T064051Z-2-001/
 *.tif.ovr
 *.tif.aux.xml
 *.tfw
+
+# ...except these small, checked-in sample outputs
+!GoogleMap-Images.tif
+!GoogleMap-Images.tif.ovr
+!GeoSAM-Extraction.tif
+!YOLO-Extraction.tif
